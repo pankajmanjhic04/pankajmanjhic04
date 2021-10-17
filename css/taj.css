@@ -1,0 +1,253 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 55px;
+	border: 1px solid;
+	float: left;
+
+}
+.header img{
+	width: 4.75rem;
+    height: 2.125rem;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+ul li{
+			display: inline-block;
+			color:  black;
+			text-align: center;
+			font-weight: bold;
+		    margin: 2px;
+            position: relative;
+            top: -33px;
+            left: 165px;
+}
+	
+ul li a{
+			color:  black;
+			text-decoration: none;
+		}
+.header select{
+	position: relative;
+    left: 645px;
+    top: -59px;
+    text-decoration: none;
+    padding: 5px;
+    outline-style: hidden
+}		
+.header button{
+	position: relative;
+    left: 1154px;
+    top: -113px;
+    height: 36px;
+    background-color: #b07d3b;
+    color: white;
+    padding: 5px;
+    width: 163px;
+}
+.banner{
+	width: 100%;
+	height: 700px;
+	border: 1px solid;
+}
+.banner img{
+	background-size: cover;
+	width: 100%;
+
+}
+.explore{
+	font-family: Calibri;
+    font-size: 33px;
+    font-weight: normal;
+    background: rgba(0, 0, 0, 0.7);
+    height: 65px;
+    width: 1200px;
+    padding-left: 64px;
+    position: relative;
+    left: 144px;
+    top: -93px;
+   
+    color: #ffffff;
+    opacity: 0.9;
+   
+    outline: none;
+    box-shadow: 0 10px 12px 0 rgb(0 0 0 / 5%);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background-attachment: fixed;
+}
+.banner a{
+	    text-decoration: none;
+    color: #BC8741;
+    padding-left: 254px;
+}
+.banner h2{
+	    font-size: 44px;
+    margin-left: 90px;
+    margin-top: -38px;
+}
+ .vertical {
+            border-left: 1px solid black;
+    height: 95px;
+    position: absolute;
+    left: 327px;
+    top: 577px;
+        }
+.a{
+    width: 100%;
+    height: 150px;
+    background-color: #ba8541;
+    background: linear-gradient(
+    180deg
+, #C38C47 0%, #8E6525 100%);
+    border: 1px solid #CB934D;
+    
+}
+.a h2{
+    margin-left: 78px;
+    margin-top: 48px;
+    color: #956a29
+}        
+.b{
+    height: 600px;
+    width: 348px;
+    border: 1px solid white;
+    margin: 10px;
+    float: left;
+    /* margin-left: 79px; */
+    padding-left: 36px;
+    position: relative;
+    top: 85px;
+    left: 150px;
+    background-color: #FFFFFE;
+
+}
+.b img{
+        height: 353px;
+    width: 385px;
+    background-size: cover;
+    position: relative;
+    top: 40px;
+    left: -36px;
+}
+.b button{
+        background-color: #8e6426;
+    padding: 10px;
+    color: white;
+    margin-left: 220px;
+}
+.c{
+    border: 1px solid;
+    height: 540px;
+    width: 595px;
+    float: left;
+    margin: 8px;
+    position: relative;
+    left: 168px;
+    top: -200px;
+}
+.c img{
+           width: 595px;
+    margin-top: 27px;
+    height: 400px;
+}
+.c h3{
+    position: relative;
+    top: 14px;
+}
+.c h2{
+    position: relative;
+    top: 14px;
+    left: 21px;
+}
+.c h5{
+        position: relative;
+    left: 91px;
+}
+.c button{
+    position: relative;
+    left: 470px;
+    top: -23px;
+    padding: 9px;
+    background-color: #8f6426;
+    color: white;
+}
+.d{
+    border: 1px solid;
+    height: 540px;
+    width: 595px;
+    float: left;
+    margin: 8px;
+    position: relative;
+    left: 168px;
+    top: -200px;
+}
+.d img{
+           width: 595px;
+    margin-top: 27px;
+    height: 400px;
+}
+.d h3{
+    position: relative;
+    top: 14px;
+}
+.d h2{
+    position: relative;
+    top: 14px;
+    left: 21px;
+}
+.d h5{
+        position: relative;
+    left: 24px;
+    top: 16px;
+}
+.d button{
+    position: relative;
+    left: 470px;
+    top: -23px;
+    padding: 9px;
+    background-color: #8f6426;
+    color: white;
+}
+.e{
+    height: 336px;
+    width: 260px;
+    border: 1px solid;
+    position: relative;
+    top: 728px;
+    left: 167px;
+}
+.e img{
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+}
+.f{
+        height: 336px;
+    width: 260px;
+    border: 1px solid;
+    position: relative;
+    top: 390px;
+    left: 482px;;
+}
+.g{
+    height: 336px;
+    width: 260px;
+    border: 1px solid;
+    position: relative;
+    top: 52px;
+    left: 792px;
+
+}
+.h{
+    height: 336px;
+    width: 260px;
+    border: 1px solid;
+    position: relative;
+    top: -284px;
+    left: 1091px;
+}
